@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\Documents\\GitHub\\ConsoleApp3\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\ConsoleApp3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{395E44CB-5AA9-4E5F-9ED2-81F813B2E01D}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\documents\\github\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{395E44CB-5AA9-4E5F-9ED2-81F813B2E01D}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395E44CB-5AA9-4E5F-9ED2-81F813B2E01D}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395E44CB-5AA9-4E5F-9ED2-81F813B2E01D}|ConsoleApp3\\ConsoleApp3.csproj|C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\Documents\\GitHub\\ConsoleApp3\\consoleapp3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{395E44CB-5AA9-4E5F-9ED2-81F813B2E01D}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\\u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\consoleapp3\\consoleapp3\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395E44CB-5AA9-4E5F-9ED2-81F813B2E01D}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395E44CB-5AA9-4E5F-9ED2-81F813B2E01D}|ConsoleApp3\\ConsoleApp3.csproj|C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\ConsoleApp3\\consoleapp3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395E44CB-5AA9-4E5F-9ED2-81F813B2E01D}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Validator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Validator.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Validator.cs",
+              "RelativeToolTip": "ConsoleApp3\\Validator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:08:58.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\Documents\\GitHub\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\Documents\\GitHub\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
               "RelativeToolTip": "ConsoleApp3\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T09:58:54.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\Documents\\GitHub\\ConsoleApp3\\ConsoleApp3\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Student.cs",
               "RelativeDocumentMoniker": "ConsoleApp3\\Student.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\Documents\\GitHub\\ConsoleApp3\\ConsoleApp3\\Student.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Student.cs",
               "RelativeToolTip": "ConsoleApp3\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
